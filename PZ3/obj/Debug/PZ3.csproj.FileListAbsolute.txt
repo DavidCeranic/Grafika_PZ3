@@ -1,0 +1,80 @@
+C:\Users\david\Desktop\PZ3\PZ3\bin\Debug\PZ3.exe.config
+C:\Users\david\Desktop\PZ3\PZ3\bin\Debug\PZ3.exe
+C:\Users\david\Desktop\PZ3\PZ3\bin\Debug\PZ3.pdb
+C:\Users\david\Desktop\PZ3\PZ3\bin\Debug\HelixToolkit.dll
+C:\Users\david\Desktop\PZ3\PZ3\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\david\Desktop\PZ3\PZ3\bin\Debug\HelixToolkit.xml
+C:\Users\david\Desktop\PZ3\PZ3\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3.csprojAssemblyReference.cache
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\App.g.cs
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3_MarkupCompile.cache
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3_MarkupCompile.lref
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3.g.resources
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3.Properties.Resources.resources
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3.csproj.GenerateResource.cache
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3.csproj.CopyComplete
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3.exe
+C:\Users\david\Desktop\PZ3\PZ3\obj\Debug\PZ3.pdb
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\bin\Debug\PZ3.exe.config
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\bin\Debug\PZ3.exe
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\bin\Debug\PZ3.pdb
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.dll
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.xml
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csprojAssemblyReference.cache
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\App.g.cs
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3_MarkupCompile.cache
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3_MarkupCompile.lref
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.g.resources
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.Properties.Resources.resources
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csproj.GenerateResource.cache
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csproj.CopyComplete
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.exe
+C:\Users\david\Desktop\New folder (4)\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.pdb
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\PZ3.exe.config
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\PZ3.exe
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\PZ3.pdb
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.dll
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.xml
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\App.g.cs
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3_MarkupCompile.cache
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3_MarkupCompile.lref
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.g.resources
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.Properties.Resources.resources
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csproj.GenerateResource.cache
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csproj.CopyComplete
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.exe
+C:\Users\david\Desktop\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.pdb
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\PZ3.exe.config
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\PZ3.exe
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\PZ3.pdb
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.dll
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.Wpf.dll
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.xml
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\bin\Debug\HelixToolkit.Wpf.xml
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csprojAssemblyReference.cache
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\MainWindow.g.cs
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\App.g.cs
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3_MarkupCompile.cache
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3_MarkupCompile.lref
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\MainWindow.baml
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.g.resources
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.Properties.Resources.resources
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csproj.GenerateResource.cache
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csproj.CoreCompileInputs.cache
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.csproj.CopyComplete
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.exe
+G:\FAX cetvrta\Grafika\PZ3\Odbrana\PR145-2016_David_Ceranic\PZ3\obj\Debug\PZ3.pdb
